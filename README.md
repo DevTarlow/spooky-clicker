@@ -9,6 +9,8 @@ upgrades that tap for you. It's a Halloween clicker that runs in any browser.
 There's no account and no server involved, and once it's loaded the game works
 offline. You can add it to a phone's home screen like any other app.
 
+![Spooky Clicker 2026](screenshot.png)
+
 ## How to play
 
 Tap the cauldron. It bubbles, smokes, and shakes, and every so often a tap
